@@ -1,0 +1,16 @@
+{
+  "name": "ابزار دشت بانیان",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "دشت بانیان",
+  "id": "https://abzar-dashtbanian.com/",
+  "start_url": "https://abzar-dashtbanian.com/",
+  "lang": "fa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "rtl",
+  "scope": "https://abzar-dashtbanian.com/",
+  "categories": [
+    "shopping"
+  ]
+}
